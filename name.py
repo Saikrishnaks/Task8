@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env python
 name=input("Enter your Name Here: ")
 print("Hello",name)
 # This program adds two numbers
